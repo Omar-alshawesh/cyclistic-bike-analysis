@@ -59,5 +59,4 @@ This analysis focuses on understanding usage patterns to help convert casual rid
 ---
 
 ## Author
-**Omar Al-Shawesh**  
-Industrial Engineer | Data Analyst
+**ENG.Omar Al-Shawesh**  
