@@ -1,26 +1,26 @@
-# 📊 Cyclistic Bike-Share Analysis
+# Cyclistic Bike-Share Analysis
 
-## 🔍 Project Overview
+## Project Overview
 This project analyzes over **5.6 million bike-share trips** to identify behavioral differences between **casual riders** and **annual members**.
 
 The goal is to generate data-driven insights that support strategies for increasing membership conversions.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Cyclistic aims to increase the number of annual memberships, as members are more profitable than casual riders.
 
 This analysis focuses on understanding usage patterns to help convert casual riders into long-term members.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - SQL (data cleaning, transformation, and analysis)
 - Excel (aggregation, analysis, and visualization)
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 - Combined 12 months of data into one dataset (~5.6M records)
 - Checked for duplicates and missing values
 - Created new features:
@@ -31,7 +31,7 @@ This analysis focuses on understanding usage patterns to help convert casual rid
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Casual riders are **leisure-oriented**:
   - Longer ride durations
   - Higher weekend usage
@@ -43,14 +43,14 @@ This analysis focuses on understanding usage patterns to help convert casual rid
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 1. Target casual riders during weekends with promotions
 2. Launch seasonal campaigns during peak periods
 3. Promote membership as a daily transportation solution
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `Report.pdf` → Full analysis report  
 - `Visualizations.xlsx` → Charts and analysis  
 - `.sql files` → SQL queries used  
@@ -58,6 +58,6 @@ This analysis focuses on understanding usage patterns to help convert casual rid
 
 ---
 
-## 👤 Author
+## Author
 **Omar Al-Shawesh**  
 Industrial Engineer | Data Analyst
